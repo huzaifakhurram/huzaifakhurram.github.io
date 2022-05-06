@@ -1,0 +1,35 @@
+
+nav{
+    width:100%;
+    height:20vh;
+    background-color: rgba(82, 0, 0, 0.89);
+    color:azure;
+    display:flex;
+    justify-content: space-around;
+    align-items: center; text-transform: uppercase;
+}
+nav .logo{
+    width:30%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+nav .menu{
+    width: 40%;
+    display:flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+MAIN  h1{
+    background-color: blue;
+    COLOR:WHITE;
+}
+main{
+    background-color: black;
+    width:100%;
+    height:50vh;
+    color: beige;
+    MARGIN:30PX;
+    padding: 20PX;
+    font-size: 30PX;
+}
